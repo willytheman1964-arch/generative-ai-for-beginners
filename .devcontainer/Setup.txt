@@ -1,4 +1,4 @@
-This file will use the official Python image as the base image for the 
+etc This file will use the official Python image as the base image for the 
 development container. It will also install some VS Code extensions for Python development,
 such as the Python extension and the Jupyter. 
 
